@@ -34,7 +34,7 @@ b) postcss.config.js
 # Server runs at: http://localhost:5173
 
 6. FOLDER STRUCTURE :-
-   ai_coach_frontend/
+   frontend/
    ├── components/
    │ └── ChatUI.jsx
    | └── Message.jsx
